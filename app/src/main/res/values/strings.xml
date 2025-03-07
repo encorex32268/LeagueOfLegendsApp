@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LeagueOfLegends</string>
+    <string name="championItemImage">ChampionItemImage</string>
+    <string name="champion_search_bar_hint">Example:Ahri、Brand...</string>
+    <string name="alert_dialog_close">Close</string>
+    <string name="translateicon_content_description">TranslateIcon</string>
+    <string name="skin_image">Skin %1$s</string>
+</resources>
