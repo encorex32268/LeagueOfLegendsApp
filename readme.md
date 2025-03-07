@@ -1,7 +1,5 @@
 # League of Legends Champion App
 
-![Header Image](https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/readmeHeaderImage.png)
-
 ## 📌 Introduction
 
 This is my side project **League of Legends Champion App**, allowing users to quickly view detailed information about all champions, including skills, attributes, and lore.
@@ -18,14 +16,18 @@ This is my side project **League of Legends Champion App**, allowing users to qu
 
 ## 📷 Screenshots
 
-| ![1](https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/screenshots/screenshot1.jpg
-) | ![2](https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/screenshots/screenshot2.jpg
-) |![3](https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/screenshots/screenshot3.jpg
-)|![4](https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/screenshots/screenshot4.jpg
-)|![5](https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/screenshots/screenshot5.jpg
-)
+<table>
+  <tr>
+    <td><img src="https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/screenshots/screenshot1.png" width="300"></td>
+    <td><img src="https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/screenshots/screenshot2.png" width="300"></td>
+    <td><img src="https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/screenshots/screenshot3.png" width="300"></td>
+    <td><img src="https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/screenshots/screenshot4.png" width="300"></td>
+    <td><img src="https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/screenshots/screenshot5.png" width="300"></td>
+  </tr>
+</table>
 
-
+## Video
+[https://www.youtube.com/shorts/sg9tSX80JXQ](https://www.youtube.com/shorts/sg9tSX80JXQ)
 
 💡 **If you like this project, don't forget to ⭐Star it!** 🚀
 
