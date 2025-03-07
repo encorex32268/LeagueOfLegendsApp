@@ -1,6 +1,6 @@
 # League of Legends Champion App
 
-![Header Image](https://github.com/encorex32268/LeagueOfLegends/blob/master/readmeHeaderImage.png)
+![Header Image](https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/readmeHeaderImage.png)
 
 ## 📌 Introduction
 
@@ -18,11 +18,11 @@ This is my side project **League of Legends Champion App**, allowing users to qu
 
 ## 📷 Screenshots
 
-| ![1](https://github.com/encorex32268/LeagueOfLegends/blob/master/screenshots/screenshot1.jpg
-) | ![2](https://github.com/encorex32268/LeagueOfLegends/blob/master/screenshots/screenshot2.jpg
-) |![3](https://github.com/encorex32268/LeagueOfLegends/blob/master/screenshots/screenshot3.jpg
-)|![4](https://github.com/encorex32268/LeagueOfLegends/blob/master/screenshots/screenshot4.jpg
-)|![5](https://github.com/encorex32268/LeagueOfLegends/blob/master/screenshots/screenshot5.jpg
+| ![1](https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/screenshots/screenshot1.jpg
+) | ![2](https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/screenshots/screenshot2.jpg
+) |![3](https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/screenshots/screenshot3.jpg
+)|![4](https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/screenshots/screenshot4.jpg
+)|![5](https://github.com/encorex32268/LeagueOfLegendsApp/blob/master/screenshots/screenshot5.jpg
 )
 
 

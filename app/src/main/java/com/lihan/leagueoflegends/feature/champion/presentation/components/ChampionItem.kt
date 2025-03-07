@@ -34,7 +34,6 @@ fun ChampionItem(
     Row(
         modifier = modifier.clickable {
             championUI.id?.let {
-                Log.d("TAG", "ChampionItem: ${it}")
                 onItemClick(it)
             }
         },

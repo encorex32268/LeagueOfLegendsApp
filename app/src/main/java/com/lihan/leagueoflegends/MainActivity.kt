@@ -37,7 +37,6 @@ class MainActivity : ComponentActivity() {
                             composable<Routes.Champions>{
                                 ChampionsScreenRoot(
                                     onChampionClickGoToDetail = {
-                                        Log.d("TAG", "onCreate: onChampionClickGoToDetail ${it}")
                                         navController.navigate(
                                             Routes.ChampionDetail(it)
                                         )
