@@ -46,7 +46,7 @@ class MainActivity : ComponentActivity() {
                             composable<Routes.ChampionDetail>{
                                 ChampionDetailScreenRoot(
                                     onBack = {
-                                        navController.popBackStack()
+                                        navController.navigateUp()
                                     }
                                 )
                             }
